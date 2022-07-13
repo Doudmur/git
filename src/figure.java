@@ -6,6 +6,18 @@ class triangle extends figure{
 
 }
 
+class isoscelesTriangle extends triangle{
+
+}
+
+class equilateralTriangle extends triangle{
+
+}
+
+class rightTriangle extends triangle{
+
+}
+
 class quadrilateral extends figure{
 
 }
