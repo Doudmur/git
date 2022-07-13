@@ -22,6 +22,30 @@ class quadrilateral extends figure{
 
 }
 
+class convexQuadrilateral extends quadrilateral{
+
+}
+
+class parallelogram extends quadrilateral{
+
+}
+
+class rectangle extends quadrilateral{
+
+}
+
+class square extends quadrilateral{
+
+}
+
+class rhomb extends quadrilateral{
+
+}
+
+class trapezoid extends quadrilateral{
+
+}
+
 class pentagon extends figure{
 
 }
